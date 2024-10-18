@@ -109,6 +109,15 @@ Uma forma de impedir essa proteção é programar seu bot para se comportar da m
 Você aprendeu um pouco sobre como contornar a proteção WAF:
 
 O que é WAF e quais são os provedores mais comuns.
+
 Se é possível contornar isso.
+
 Quais são as defesas mais comuns utilizadas por essas tecnologias.
-As técnicas aqui apresentadas são apenas parte de todo o arsenal disponível aos WAFs. Além disso, estas medidas de proteção continuam a evoluir e contorná-las torna-se cada dia mais difícil. Encontrar soluções alternativas e mantê-las atualizadas exige muito tempo e esforço.
+
+As técnicas aqui apresentadas são apenas parte de todo o arsenal disponível aos WAFs. 
+
+Além disso, estas medidas de proteção continuam a evoluir e contorná-las torna-se cada dia mais difícil. 
+
+Encontrar soluções alternativas e mantê-las atualizadas exige muito tempo e esforço.
+
+**MUITO IMPORTANTE SEMPRE FECHAR ESSE BYPASS**
